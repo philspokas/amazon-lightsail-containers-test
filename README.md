@@ -1,5 +1,10 @@
 
 # amazon-lightsail-containers-test
+
+Found this *very* useful repo showing me that the only way to reliably deploy to AWS Lightsail containers was by downloading the latest version of the aws cli and the lightsail plugin
+
+
+
 ---
 
 「[研究プロジェクトのWebアプリを気軽にデプロイする方法](https://zenn.dev/junkato/books/how-to-deploy-research-web-apps)」 Chapter 02 Amazon Lightsail Containers のサンプルコードを含むリポジトリです。
